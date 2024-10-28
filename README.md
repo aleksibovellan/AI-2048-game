@@ -10,6 +10,20 @@
 
 ---
 
+![screenshot](https://github.com/user-attachments/assets/9e0fbc98-8f6a-4f50-ae69-b9b5fc576897)
+
+---
+
+## Main Usage
+
+To run the AI-powered 2048 game simulation, simply execute the main script:
+
+python3 2048_ai.py
+
+The script will automatically start simulating the game using the AI. It will display the game board after each move and provide a summary of the results at the end.
+
+---
+
 ## Included Files
 
 - `2048_ai.py` - The main game script with AI implementation
@@ -34,16 +48,6 @@ Since the script only uses standard Python libraries, no additional installation
 No external packages are required. Ensure you have **Python 3** installed on your system.
 
 Optional: if you want to use 'numba' for GPU performance benefits on CUDA, type: pip install numba
-
----
-
-## Main Usage
-
-To run the AI-powered 2048 game simulation, simply execute the main script:
-
-python3 2048_ai.py
-
-The script will automatically start simulating the game using the AI. It will display the game board after each move and provide a summary of the results at the end.
 
 ---
 
