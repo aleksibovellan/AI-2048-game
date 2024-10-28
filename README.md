@@ -131,10 +131,3 @@ The script is designed to run efficiently on both Macs and PCs without requiring
 - **Tweaking Heuristic Weights:**
   - The weights of the heuristics in the `combined_heuristic` function can be modified to experiment with different AI behaviors.
 
----
-
-## Conclusion
-
-This project demonstrates an AI approach to solving the 2048 game using Python. By combining several heuristics with the Expectimax algorithm, the AI makes strategic decisions to maximize the tile values on the board. The script is user-friendly and requires minimal setup, making it accessible for experimentation and further development.
-
----
