@@ -1,6 +1,6 @@
 # AI Solution in Python for Solving the 2048 Game
 
-**A Python script that creates and plays the classic "2048" game itself for maximum high scores during 20 rounds (max 1000 moves each).**
+**A Python script that creates and plays the classic "2048" game by itself for a maximum high score during 20 rounds (max 1000 moves each).**
 
 **Author:** Aleksi Bovellan
 
